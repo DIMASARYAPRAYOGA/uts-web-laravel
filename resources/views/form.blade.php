@@ -56,8 +56,9 @@
                 <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Input Nama Produk">
             </div>
             <div class="col-2">
+                {{-- soal nomor 5 --}}
                 <label for="exampleInputPassword1" class="form-label">Jenis Produk</label>
-                <select class="form-select" id="jenisKelamin">
+                <select class="form-select" id="-">
                     <option selected disabled>Pilih Produk</option>
                     <option value="alat">Alat tulis</option>
                     <option value="elektronik">Elektronik</option>
